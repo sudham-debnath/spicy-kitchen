@@ -88,7 +88,7 @@ nav ul li a:hover{
 /* banner start */
 
 #banner-section{
-    background-image: url("/images/banner.jpg");
+    background-image: url("https://github.com/sudham-debnath/spicy-kitchen/blob/9128ee66d50bf794c846a826a265a27f94cfe796/images/banner.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
